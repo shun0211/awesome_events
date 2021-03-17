@@ -259,7 +259,6 @@ DEPENDENCIES
   rails-i18n (~> 6.0.0)
   sass-rails (>= 6)
   selenium-webdriver
-  spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3 (~> 1.4)
   turbolinks (~> 5)
